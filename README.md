@@ -3,8 +3,8 @@
 Tech Stack: MERN MongoDB, Express, React, NodeJS
 
 ## npm packages need to install
-####  ``` npm install express mongoose dotenv bootstrap react-datepicker axios cors react-router-dom ```
-####  ``` sudo npm nodemon ```
+  ``` npm install express mongoose dotenv bootstrap react-datepicker axios cors react-router-dom ```
+  ``` sudo npm nodemon ```
 
 ## Create a MongoDB atlas cluster and code string to .env file
 ``` Path : mern-exercise-tracker/backend ```
