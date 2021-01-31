@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Tech Stack: MERN MongoDB, Express, React, NodeJS
+Tech Stack: MERN [ MongoDB, Express, React, NodeJS ]
 
 ## npm packages need to install
   ``` npm install express mongoose dotenv bootstrap react-datepicker axios cors react-router-dom ```
