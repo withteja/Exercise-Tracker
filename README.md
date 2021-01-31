@@ -13,7 +13,9 @@ Tech Stack: MERN MongoDB, Express, React, NodeJS
 Connection string looks like this:
 
 ``` mongodb+srv://Username:<password>@cluster0.jfukr.mongodb.net/<dbname>?retryWrites=true&w=majority Path : mern-exercise-tracker/backend ```
-######   Eg: `ATLAS_URI='Add your MongoDB atlas connection string into your application code here'`
+
+In .env file 
+######   Eg: `ATLAS_URI='add connection string here'`
 ## How to run
 #### Frontend `yarn start` or `npm start` in ``` ./src folder ```
 ####  Backend   `nodemon server` in ```./backend folder```
