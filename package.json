@@ -1,0 +1,26 @@
+{
+  "name": "Exercise-Tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react-addons-linked-state-mixin": "^15.6.2",
+    "react-datepicker": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withteja/Exercise-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withteja/Exercise-Tracker/issues"
+  },
+  "homepage": "https://github.com/withteja/Exercise-Tracker#readme"
+}
