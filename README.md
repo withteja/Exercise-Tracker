@@ -26,5 +26,5 @@ You need to install all the packages mentioned above and create a mongoDB atlas 
 The page will reload if you make edits.\
 
 
-!(https://github.com/withteja/Exercise-Tracker/blob/main/Readme%20Assets/1.png)
-!(https://github.com/withteja/Exercise-Tracker/blob/main/Readme%20Assets/2.png)
+![Demo1](https://github.com/withteja/Exercise-Tracker/blob/main/Readme%20Assets/1.png)
+![Demo2](https://github.com/withteja/Exercise-Tracker/blob/main/Readme%20Assets/2.png)
