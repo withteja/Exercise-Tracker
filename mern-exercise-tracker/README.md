@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   `npm install  express mongoose dotenv bootstrap react-datepicker axios cors react-router-dom `
   `sudo npm nodemon`
 
-## Create a MongoDB atlas cluster and code string to .env file in Path:mern-exercise-tracker/backend
+# Create a MongoDB atlas cluster and code string to .env file in Path:mern-exercise-tracker/backend
    Eg: `ATLAS_URI='Add your MongoDB atlas connection string into your application code here'`
-### Frontend `yarn start` or `npm start` in ./src folder 
-##  Backend   `nodemon server` in ./backend folder
+# Frontend `yarn start` or `npm start` in ./src folder 
+#  Backend   `nodemon server` in ./backend folder
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
