@@ -7,7 +7,7 @@ Tech Stack: MERN MongoDB, Express, React, NodeJS
   
   ``` sudo npm nodemon ```
 
-## Create a MongoDB atlas cluster and code string to .env file
+## Create a MongoDB atlas cluster, after creating a cluster you get a code string and add it to the .env file
 ``` Path : mern-exercise-tracker/backend ```
 ######   Eg: `ATLAS_URI='Add your MongoDB atlas connection string into your application code here'`
 ## How to run
